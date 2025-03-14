@@ -1,3 +1,4 @@
+// tabela de dados
 package com.example.api.model;
 
 import jakarta.persistence.*;
@@ -11,6 +12,7 @@ import lombok.*;
 public class Produto {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    // nome das colunas: 
     private Long id;
 
     private String nome;
