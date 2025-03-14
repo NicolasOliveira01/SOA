@@ -1,3 +1,4 @@
+// chamadas da integração para dialogar com o banco de dados
 package com.example.api.repository;
 
 import com.example.api.model.Produto;
