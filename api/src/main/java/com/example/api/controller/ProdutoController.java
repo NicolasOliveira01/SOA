@@ -1,3 +1,4 @@
+// orienta o endpoint da API
 package com.example.api.controller;
 
 import com.example.api.model.Produto;
